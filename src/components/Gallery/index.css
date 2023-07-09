@@ -1,0 +1,41 @@
+/* Write your code here. */
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+.bg-con {
+  background-color: #fff;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 45px;
+  padding-bottom: 45px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.card-con {
+  font-family: 'Roboto';
+}
+.big-img-size {
+  width: 650px;
+  height: 450px;
+}
+.hding {
+  color: #1e293b;
+  font-weight: 600;
+  font-size: 24px;
+  margin-top: 20px;
+}
+.para {
+  font-size: 10px;
+  font-weight: 700;
+  color: #64748b;
+  margin-top: 30px;
+}
+.list-con {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 30px;
+}
